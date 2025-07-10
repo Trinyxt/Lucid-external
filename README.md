@@ -1,34 +1,45 @@
-**Nullbit-External**  
-![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nullbit-External</title>
+</head>
+<body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto;">
 
-[Discord Profile](https://discord.com/users/829074422517465119)
+  <h2><strong>Nullbit-External</strong></h2>
+  <img src="https://img.shields.io/badge/version-0.1-blue?style=flat-square" alt="Version Badge" />
+  <br><br>
+  <a href="https://discord.com/users/829074422517465119" target="_blank">Discord Profile</a>
 
----
+  <hr>
 
+  <h2>About</h2>
+  <p>This is a simple external created by <strong>@Trinyxt</strong>.<br>
+  I'm still learning how to make cheats in C++, so don't judge lol.</p>
 
-## About
-This is a simple external created by **@Trinyxt**.  
-I'm still learning how to make cheats in C++, so don't judge lol.
----
+  <hr>
 
-## Info
+  <h2>Info</h2>
+  <ul>
+    <li>Walkspeed Changer.</li>
+    <li>Works on <code>version-765338e04cf54fde</code></li>
+  </ul>
 
-- Walkspeed Changer.
-- Works on ``version-765338e04cf54fde``
+  <hr>
 
----
+  <h2>Credits</h2>
+  <p><strong>Discord Users</strong><br>
+  - <code>@kitodoescode</code> → Guide<br>
+  - <code>@trinyxt</code> → External</p>
 
-## Credits
+  <hr>
 
-**Discord Users**  
-- `@kitodoescode` → Guide
-- `@trinyxt` → External
+  <h2>Educational Use Only</h2>
+  <p>This project is published for educational and research purposes only.<br>
+  The author does not condone the use of this code in any cheating or malicious activity.<br>
+  Use at your own risk.</p>
 
----
+  <hr>
 
-## Educational Use Only
-This project is published for educational and research purposes only.  
-The author does not condone the use of this code in any cheating or malicious activity.  
-Use at your own risk.
-
----
+</body>
+</html>
