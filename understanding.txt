@@ -1,1 +1,22 @@
+Assuming you know how to print hello world in cpp you can probably understand how it is structured.
 
+there are four files,
+a main.cpp
+an offsets.hpp
+a RobloxFunc.hpp
+and a MemUtils.hpp.
+
+first of all,
+the offsets.cpp contain all of the offsets ofc
+An offset is the numerical distance (usually in bytes) from a base memory address to a specific data or instruction location.
+
+secondly,
+the MemUtils.hpp
+contains many of the functions related to memory like getting the process id, the base adress and the read and write
+
+thirdly,
+the RobloxFunc containts functions like the getname() which returns the name of smth from its address
+or finding the datamodel or finding the character
+
+lastly,
+the main.cpp is were everything comes together and it changes the walkspeed
