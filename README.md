@@ -1,6 +1,7 @@
 **Nullbit-External**  
 ![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)  
-![Version](https://discord.com/users/829074422517465119)
+
+[Discord Profile](https://discord.com/users/829074422517465119)
 
 ---
 
