@@ -4,7 +4,7 @@
 
 
 ## About
-This is a simple external created by **@Trinyxt**.  
+This is a simple external created by **Trinyxt**.  
 I'm still learning how to make cheats in C++, so don't judge lol.
 ---
 
