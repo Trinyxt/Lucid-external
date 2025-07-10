@@ -4,8 +4,9 @@
 
 
 ## About
-This is a simple external created by **@Trinyxt**. 
-Im still learning how to make cheats in cpp so don't judge lol.
+This is a simple external created by **@Trinyxt**.  
+
+I'm still learning how to make cheats in C++, so don't judge lol.
 ---
 
 ## Info
