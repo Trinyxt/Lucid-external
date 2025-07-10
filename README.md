@@ -1,4 +1,6 @@
-# Nullbit-External <small>v 0.1</small>
+# Nullbit-External  
+**v 0.1**
+
 
 
 ## About
