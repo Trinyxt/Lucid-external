@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  # Nullbit-External
-
 </head>
 <body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto;">
 
