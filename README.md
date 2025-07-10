@@ -1,10 +1,12 @@
 **Nullbit-External**  
-![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)
+[![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)](https://discord.com/users/829074422517465119)  
+[Discord Profile](https://discord.com/users/829074422517465119)
+
 ---
 
 
 ## About
-This is a simple external created by **Trinyxt**.  
+This is a simple external created by **@Trinyxt**.  
 I'm still learning how to make cheats in C++, so don't judge lol.
 ---
 
