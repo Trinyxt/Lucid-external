@@ -1,8 +1,8 @@
 # Nullbit-External
 
 ## About
-This is an external made by **@Trinyxt**. 
-
+This is a simple external created by **@Trinyxt**. 
+Im still learning how to make cheats in cpp so don't judge lol.
 ---
 
 ## Info
@@ -16,7 +16,7 @@ This is an external made by **@Trinyxt**.
 
 **Discord Users**  
 - `@kitodoescode` → Guide
-- `@trinyxt` → Guide
+- `@trinyxt` → External
 
 ---
 
