@@ -1,5 +1,5 @@
 **Nullbit-External**  
-``v 0.1``
+![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)
 ---
 
 
