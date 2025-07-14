@@ -6,6 +6,12 @@
 
 ---
 
+## !!!
+
+I am thinking of making this a product so i might close source it
+if not the next update will have a gui using **Dear ImGui** and jumpspeed and gravity changer and maybe 
+esp. 
+
 ## About
 
 This is a simple external created by **@Trinyxt**.  
@@ -23,8 +29,8 @@ I'm still learning how to make cheats in C++, so don't judge lol.
 ## Credits
 
 **Discord Users**  
-- `@kitodoescode` → Guide  
-- `@trinyxt` → External
+- `@kitodoescode` → Guide/Resources  
+- `@trinyxt` → External Coder
 
 ---
 
