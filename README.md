@@ -1,45 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<body style="font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto;">
+# **Nullbit-External**
 
-  <h2><strong>Nullbit-External</strong></h2>
-  <img src="https://img.shields.io/badge/version-0.1-blue?style=flat-square" alt="Version Badge" height="70" />
-  <div align="left">
-  <a href="https://discord.com/users/829074422517465119" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=trinyxt&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
+![Version](https://img.shields.io/badge/version-0.1-blue?style=flat-square)
 
+[![Discord](https://img.shields.io/static/v1?message=trinyxt&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/829074422517465119)
 
-  <hr>
+---
 
-  <h2>About</h2>
-  <p>This is a simple external created by <strong>@Trinyxt</strong>.<br>
-  I'm still learning how to make cheats in C++, so don't judge lol.</p>
+## About
 
-  <hr>
+This is a simple external created by **@Trinyxt**.  
+I'm still learning how to make cheats in C++, so don't judge lol.
 
-  <h2>Info</h2>
-  <ul>
-    <li>Walkspeed Changer.</li>
-    <li>Works on <code>version-765338e04cf54fde</code></li>
-  </ul>
+---
 
-  <hr>
+## Info
 
-  <h2>Credits</h2>
-  <p><strong>Discord Users</strong><br>
-  - <code>@kitodoescode</code> → Guide<br>
-  - <code>@trinyxt</code> → External</p>
+- Walkspeed Changer.
+- Works on `version-765338e04cf54fde`
 
-  <hr>
+---
 
-  <h2>Educational Use Only</h2>
-  <p>This project is published for educational and research purposes only.<br>
-  The author does not condone the use of this code in any cheating or malicious activity.<br>
-  Use at your own risk.</p>
+## Credits
 
-  <hr>
+**Discord Users**  
+- `@kitodoescode` → Guide  
+- `@trinyxt` → External
 
-</body>
-</html>
+---
+
+## Educational Use Only
+
+This project is published for educational and research purposes only.  
+The author does not condone the use of this code in any cheating or malicious activity.  
+Use at your own risk.
+
+---
