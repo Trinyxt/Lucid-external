@@ -31,7 +31,7 @@ Added custom driver to make it undetected! (credits to cazz for the tut)
 
 ## About
 
-I decided to post this bcuz i was kinda ashamed for using ai to make 1/3 of it and tutorials
+I decided to post this bcuz i was kinda ashamed for using ai to code a smal part of it and tutorials
 and i want to start fresh. So i will be remaking this and may or may not post it!
 Im still learning but i dont want to make this while skidding, which was my main goal, not to skid.
 
