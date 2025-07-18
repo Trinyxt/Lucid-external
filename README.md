@@ -30,9 +30,10 @@ Im still learning but i dont want to make this while skidding, which was my main
 
 ## Info
 
--Gui
--Driver
--Updated for `version-225e87fdb7254f64`
+- **Use a mapper like kdmapper to load the driver**
+- Gui
+- Driver
+- Updated for `version-225e87fdb7254f64`
 
 ---
 
@@ -41,7 +42,6 @@ Im still learning but i dont want to make this while skidding, which was my main
 **Discord Users**  
 - `@kitodoescode` → Guide/code snippets
 - `@trinyxt` → Coder
-- 
 ---
 
 ## Educational Use Only
