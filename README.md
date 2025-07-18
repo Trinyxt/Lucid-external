@@ -19,9 +19,11 @@ ImGui gui with a watermark
 
 Name ESP, Box ESP, Tracers, Skeleton (credits to kitodoescode) and checks
 **Aimbot**
+
 Mouse bot, FOV, Smoothness and some checks (wall check isn't implemented)
 
 **General**
+
 Added custom driver to make it undetected! (credits to cazz for the tut)
 
 
