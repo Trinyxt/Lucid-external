@@ -13,11 +13,13 @@ Hello this is the 2nd and maybe last update, i have added:
 Jump Power changer, Gravity changer,No-clip
 
 **Gui**
+
 ImGui gui with a watermark
 
 **ESP**
 
 Name ESP, Box ESP, Tracers, Skeleton (credits to kitodoescode) and checks
+
 **Aimbot**
 
 Mouse bot, FOV, Smoothness and some checks (wall check isn't implemented)
