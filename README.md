@@ -52,7 +52,8 @@ Im still learning but i dont want to make this while skidding, which was my main
 - `@paysonism` → Driver
 - `@trinyxt` → Coder
 
-https://github.com/paysonism/
+-# https://github.com/paysonism/
+
 ---
 
 ## Educational Use Only
