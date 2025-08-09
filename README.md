@@ -1,5 +1,6 @@
 # **Nullbit-External**
 
+![Version](https://img.shields.io/badge/version-0.2-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/version-0.4.1-blue?style=flat-square)
 
 [![Discord](https://img.shields.io/static/v1?message=trinyxt&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/829074422517465119)
@@ -49,11 +50,8 @@ Im still learning but i dont want to make this while skidding, which was my main
 ## Credits
 
 **Discord Users**  
-- `@paysonism` → Driver
+- `@kitodoescode` → Guide/code snippets
 - `@trinyxt` → Coder
-
-https://github.com/paysonism/
-
 ---
 
 ## Educational Use Only
