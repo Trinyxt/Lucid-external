@@ -12,20 +12,20 @@ What Happened To Nullbit? We Rebranded to Lucid!
 
 ## Features
 
-**Movement**
-: Jump Power changer, Gravity changer,No-clip
+**Movement:**
+ Jump Power changer, Gravity changer,No-clip
 
-**Gui**
-: ImGui gui with a watermark
+**Gui:**
+ ImGui gui with a watermark
 
-**ESP**
-: Name ESP, Box ESP, Tracers, Skeleton (credits to kitodoescode) and checks
+**ESP:**
+ Name ESP, Box ESP, Tracers, Skeleton (credits to kitodoescode) and checks
 
-**Aimbot**
-: Mouse bot, FOV, Smoothness and some checks (wall check isn't implemented)
+**Aimbot:**
+ Mouse bot, FOV, Smoothness and some checks (wall check isn't implemented)
 
-**General**
-: Added custom driver to make it undetected! (credits to cazz for the tut)
+**General:**
+ Added custom driver to make it undetected! (credits to cazz for the tut)
 
 
 ## About
