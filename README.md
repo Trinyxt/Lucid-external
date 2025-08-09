@@ -49,8 +49,10 @@ Im still learning but i dont want to make this while skidding, which was my main
 ## Credits
 
 **Discord Users**  
-- `@kitodoescode` → Guide/code snippets
+- `@paysonism` → Driver
 - `@trinyxt` → Coder
+
+https://github.com/paysonism/
 ---
 
 ## Educational Use Only
