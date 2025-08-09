@@ -8,32 +8,30 @@
 
 ## Announcement
 
-Hello this is the 2nd and maybe last update, i have added: 
+What Happened To Nullbit? We Rebranded to Lucid!
+
+## Features
+
 **Movement**
 Jump Power changer, Gravity changer,No-clip
 
 **Gui**
-
 ImGui gui with a watermark
 
 **ESP**
-
 Name ESP, Box ESP, Tracers, Skeleton (credits to kitodoescode) and checks
 
 **Aimbot**
-
 Mouse bot, FOV, Smoothness and some checks (wall check isn't implemented)
 
 **General**
-
 Added custom driver to make it undetected! (credits to cazz for the tut)
 
 
 ## About
 
-I decided to post this bcuz i was kinda ashamed for using ai to code a smal part of it and tutorials
-and i want to start fresh. So i will be remaking this and may or may not post it!
-Im still learning but i dont want to make this while skidding, which was my main goal, not to skid.
+I decided to post this bcuz i was kinda ashamed for using ai to code a small part of it and tutorials
+and i want to start fresh. So i will be remaking this and may or may not post source!
 
 ---
 
@@ -41,7 +39,7 @@ Im still learning but i dont want to make this while skidding, which was my main
 
 - **Use a mapper like kdmapper to load the driver**
 - Gui
-- Driver
+- Kernel Driver
 - Updated for `version-3f74e22590714de4`
 
 ---
