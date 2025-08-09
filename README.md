@@ -1,4 +1,4 @@
-# **Nullbit-External**
+# **Lucid-External**
 
 ![Version](https://img.shields.io/badge/version-0.2-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/version-0.4.1-blue?style=flat-square)
@@ -43,7 +43,7 @@ Im still learning but i dont want to make this while skidding, which was my main
 - **Use a mapper like kdmapper to load the driver**
 - Gui
 - Driver
-- Updated for `version-225e87fdb7254f64`
+- Updated for `version-3f74e22590714de4`
 
 ---
 
